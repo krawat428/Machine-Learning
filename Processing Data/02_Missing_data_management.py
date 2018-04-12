@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+@author: krawat
+
+"""
+
+
 # Manage the Missing data in data set
 
 # Importing the libraries
