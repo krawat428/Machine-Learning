@@ -1,3 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+@author: krawat
+
+"""
+
+
+#Splitting data set in training and test set
+#training set = 80%
+#test set = 20%
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd 
