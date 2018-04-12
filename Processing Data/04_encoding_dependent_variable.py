@@ -1,4 +1,11 @@
-# Data Preprocessing
+# -*- coding: utf-8 -*-
+"""
+@author: krawat
+
+"""
+
+
+# Encoding dependent variable
 
 # Importing the libraries
 import numpy as np
