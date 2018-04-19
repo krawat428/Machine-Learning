@@ -132,7 +132,7 @@ iar2 = np.array(i2)
 i3 = Image.open('images/numbers/y0.5.png')
 iar3 = np.array(i3)
 
-i4 = Image.open('images/sentdex.png')
+i4 = Image.open('images/k.png')
 iar4 = np.array(i4)
 
 
